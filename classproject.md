@@ -20,7 +20,7 @@ test <- read.csv("C:\\Users\\97252\\Documents\\Final proyect\\test.csv")
 This work was my final project in the *Intro to Data Science* course
 taught at Ben-Gurion University. We were given a dataset comprised of
 various features extracted from Reddit comments and tasked with building
-a classification model to predict whether a comment is sarcastic or not.
+a classification model to predict whether or not a comment is sarcastic.
 
 Some notes:
 
